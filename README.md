@@ -4,4 +4,4 @@ A **product data scientist** passionate about using technology to provide clarit
 
 ---
 
-You can follow me on [LinkedIn](https://linkedin.com/in/mohamedyosef101) or [Kaggle](https://kaggle.com/mohamedyosef101)
+You can follow me on **[LinkedIn](https://linkedin.com/in/mohamedyosef101)** or **[Kaggle](https://kaggle.com/mohamedyosef101)**
