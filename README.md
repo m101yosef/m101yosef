@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm a **Product Data Scientist** with a background in Computer Science and flair for Design. The main value of my work is to reduce uncertainty and help product teams make better product decisions.
-
-The end result is leveraging data to build products users love and businesses value. That's the magic a product data scientist brings!
+A **product data scientist** passionate about using technology to provide clarity and solve important problems. With a background in computer science and experience in user experience design, I help product teams cut through complexity to identify high-impact opportunities. My goal is to surface unseen insights, minimize risks and guide decisions that meaningfully improve people's lives.
+---
+You can follow me on [LinkedIn](https://linkedin.com/in/mohamedyosef101) or [Kaggle](https://kaggle.com/mohamedyosef101)
