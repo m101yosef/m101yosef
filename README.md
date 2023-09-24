@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm a **Product Data Scientist** with a background in Computer Science and flair for Visual Arts (yes, I love drawing and that's why I love data visualization the most).
 
@@ -6,7 +6,7 @@ The main value of my work is to provide data-driven insights that reduce uncerta
 
 --- --- --- --- --- --- --- --- --- --- --- 
 
-### What do I do?
+# What do I do?
 
 1. **Identify user needs** by analysing usage data, feedback surveys, NPS scores etc.
 
@@ -20,4 +20,4 @@ The end result is leveraging data to build products users love and businesses va
 
 ---
 
-You can follow me on **[LinkedIn](https://linkedin.com/in/mohamedyosef101)** or **[Kaggle](https://kaggle.com/mohamedyosef101)**
+PS. If you're interesting in working with me, [send me a message on LinkedIn](https://linkedin.com/in/mohamedyosef101)
