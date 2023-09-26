@@ -6,18 +6,4 @@ The main value of my work is to provide data-driven insights that reduce uncerta
 
 --- --- --- --- --- --- --- --- --- --- --- 
 
-# What do I do?
-
-1. **Identify user needs** by analysing usage data, feedback surveys, NPS scores etc.
-
-2. **Validating assumptions and test hypotheses** through A/B testing, user research etc.
-
-3. **Performing exploratory data analysis** to uncover trends, patterns, and insights from product data.
-
-4. **Building machine learning models** (in some cases) to power personalization, prediction, ranking etc.
-
-The end result is leveraging data to build products users love and businesses value. That's the magic a data scientist brings!
-
----
-
 PS. If you're interesting in working with me, [send me a message on LinkedIn](https://linkedin.com/in/mohamedyosef101)
