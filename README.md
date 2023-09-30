@@ -1,9 +1,9 @@
-# Hi there 👋
+# **Hello! 👋**
 
-I'm a **Data Scientist** with a background in computer science and flair for design (and yes, I love drawing).
+I'm a **Product Data Scientist** skilled in **designing AI products** that users love.
 
-The main value of my work is to provide data-driven insights that reduce uncertainty and help product teams make better product decisions (which leads to building products me and users love).
+With my background in computer science and passion for design, I deliver **data-driven insights** that reduce uncertainty and empower teams to build incredible AI experiences.
 
---- --- --- --- --- --- --- --- --- --- --- 
+My superpower is using data science to deeply understand user needs and behaviors. I translate those insights into **intuitive AI product designs** that solve real problems.
 
-PS. If you're interesting in working with me, [send me a message on LinkedIn](https://linkedin.com/in/mohamedyosef101)
+If you're interested in collaborating, let's connect! You can find me at **[LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
