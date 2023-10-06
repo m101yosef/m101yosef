@@ -6,4 +6,6 @@ With my background in computer science and passion for design, I deliver **data-
 
 My superpower is using data science to deeply understand user needs and behaviors. I translate those insights into **intuitive product designs** that solve real problems.
 
-If you're interested in collaborating, let's connect! You can find me at **[LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
+---
+
+➡️ If you're interested in collaborating, let's connect! You can find me at **[LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
