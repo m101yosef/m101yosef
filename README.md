@@ -8,4 +8,4 @@ In the end, it's not just about changing the world; it's about changing ourselve
 
 ---
 
-➡️ If you're interested in collaborating, let's connect! You can find me at **[LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
+➡️ If you're interested in collaborating, **[send me a message on LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
