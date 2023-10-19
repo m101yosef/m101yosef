@@ -1,5 +1,6 @@
 ![github intro](https://github.com/mohamedyosef101/mohamedyosef101/assets/118842452/4c48a821-c095-4387-aed6-1587caa7870b)
 
+
 <div align="center" style="display: inline_block;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -7,6 +8,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br>
+
 
 For me, science is not just knowledge; it's a way of thinking. It's a journey that began in the heart of Egypt, a place where the whispers of ancient mysteries still echo through the sands of time. My name is Mohamed Yosef, and I stand at the intersection of two great passions: mathematics and art.
 
