@@ -13,4 +13,4 @@ For me, science is not just knowledge; it's a way of thinking. It's a journey th
 * 💼 I work as a freelance **Data Scientist** and **Researcher**.
 * 🎓 Currently, I'm doing **research** on Advanced Statistical Analysis.
 * 🌱 Also, I've a blog **[on Medium](https://medium.com/@mohamedyosef101)** where I share my thoughts and ideas.
-* 💬 And, if you have any questions, feel free to **[send me a message on LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
+* 💬 And, if you have any questions, feel free to contact me via **[email](mailto:mohamedyosef101@outlook.com)** or **[LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
