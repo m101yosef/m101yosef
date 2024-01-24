@@ -10,7 +10,6 @@
 
 For me, science is not just knowledge; it's a way of thinking. It's a journey that began in the heart of Egypt, a place where the whispers of ancient mysteries still echo through the sands of time. My name is Mohamed Yosef, and I stand at the intersection of two great passions: mathematics and art.
 
-* 💼 I work as **Data Scientist** and **Product Designer**.
-* 🎓 Currently, I'm doing **research** on *Reinforcement Learning*.
-* 🌱 Also, I've a blog **[on Medium](https://medium.com/@mohamedyosef101)** where I share my thoughts and ideas.
-* 💬 And, *if you have any questions*, feel free to **send me a message [on LinkedIn](https://linkedin.com/in/mohamedyosef101)**.
+* 💼 I work as a freelance **Data Scientist**.
+* 🌱 Currently, I'm doing **research** on *Deep RL*.
+* 💬 And, you can find me on LinkedIn at [**MohamedYosef101**](https://linkedin.com/in/mohamedyosef101).
