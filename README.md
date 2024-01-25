@@ -5,6 +5,7 @@
   <img alt="Python badge" src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white">
   <img alt="R badge" src="https://img.shields.io/badge/R-333333?style=for-the-badge&logo=r&logoColor=white">
   <img alt="TensorFlow badge" src="https://img.shields.io/badge/TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt="PyTorch badge" src="https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=white">
   <img alt="C badge" src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br>
 
