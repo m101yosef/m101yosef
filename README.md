@@ -9,8 +9,12 @@
   <img alt="C badge" src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br>
 
-My name is Mohamed Yosef, a data scientist and researcher from Egypt. I started out in user experience design, which means I worked on making apps and websites easy and enjoyable to use. After that, I got into data science, where I now focus on deep reinforcement learning (deep RL).
+My name is Mohamed Yosef, a data scientist and researcher from Egypt. I started out in user experience design, which means I worked on making apps and websites easy and enjoyable to use. After that, I got into data science, where I now focus on **deep reinforcement learning** (deep RL) which is a type of machine learning that helps machines make decisions by trying different actions and learning from the results. 
 
-Deep RL is a type of machine learning that helps machines make decisions by trying different actions and learning from the results. I also study multi-agent learning, which is about teaching multiple AI agents to work together and solve problems. At Mansoura University, I lead a project called AQSA where we help small businesses by using time-series and RL techniques to analyze and forecaste their sales data.
+I also study**multi-agent learning**, which is about teaching multiple AI agents to work together and solve problems. At Mansoura University, I lead a project called **AQSA** where we help small businesses by using **time-series** and RL techniques to analyze and forecaste their sales data. My main aim is to make AI agents helpful partners for people in their work and daily life. I believe that by combining my design skills with my knowledge of data, I can make AI agents that are not only smart but also easy and pleasant to use.
 
-My main aim is to make AI agents helpful partners for people in their work and daily life. I believe that by combining my design skills with my knowledge of data, I can make AI agents that are not only smart but also easy and pleasant to use.
+### Links:
+- website -> [mohamedyosef101.github.io](https://mohamedyosef101.github.io)
+- Email -> mohamedyosef101@outlook.com
+- LinkedIn -> [mohamedyosef101](https://linkedin/in/mohamedyosef101)
+- Twitter -> [mohamedyosef101](https://twitter.com/mohamedyosef101)
