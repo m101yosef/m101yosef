@@ -8,8 +8,12 @@
   <img alt="C badge" src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br>
 
-Hi, I am Mohamed Yosef, a **Data Scientist, MLOps Engineer, and Reinforcement Learning (RL) Researcher** from Egypt. My journey began as a **UX designer (2021-2023)**, where I crafted intuitive digital experiences and learned how to design solutions that solve real-world problems. This background in design and creative thinking plays a crucial role in my current work, particularly in operationalizing AI systems and applying advanced techniques like **deep reinforcement learning (Deep RL)**—a field where systems learn to make decisions by exploring actions and learning from outcomes.
+My journey began with a strong interest in data and mathematics, which has led me to work on diverse projects that apply machine learning and AI to real-world problems.
 
-Currently, as an **MLOps Engineer**, I help businesses streamline the **deployment, monitoring, and scaling** of machine learning models in production environments. MLOps is essential for ensuring that models built in the development stage are **reliable, scalable, and deliver consistent results** in real-world applications. By focusing on **CI/CD pipelines**, **infrastructure management**, and **automation**, I ensure that AI systems perform effectively and adapt to evolving business needs.
+I've worked with businesses to help them use AI to improve decision-making, develop chatbots, and automate tasks. My experience includes building recommendation systems, forecasting models, and conducting time-series analysis for various industries. I’ve also led research projects that explore the intersection of economic trends like [Unemployment rate after COVID-19](https://mohamedyosef101.github.io/publication/unempgrowth/), [energy consumption](https://mohamedyosef101.github.io/publication/global-energy/), and human performance, like my recent analysis of the [2024 Olympics](https://mohamedyosef101.github.io/publication/olympics-economics/).
+
+Beyond my freelance work, I’ve developed apps ([AQSA](https://mohamedyosef101.github.io/publication/aqsa/) & [EVNTO](https://mohamedyosef101.github.io/publication/evnto/)) for universities and startups, leveraging AI to create meaningful user experiences. I enjoy collaborating with different teams to bring AI-driven solutions to life, and I’m always looking for new opportunities to explore how AI can shape the future.
+
+Currently, I’m focused on mastering reinforcement learning, while continually expanding my knowledge in Natural Language Processing and Time Series Analysis.
 
 For more, visit [my website](https://mohamedyosef101.github.io).
