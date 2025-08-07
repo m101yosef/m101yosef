@@ -9,12 +9,11 @@
   <img alt="C badge" src="https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div><br>
 
-My journey began with a strong interest in data and mathematics, which has led me to work on diverse projects that apply machine learning and AI to real-world problems.
+I'm a data scientist who's still early in the journey, but deeply interested in using data and machine learning in healthcare and neuroscience where my work will not go in-vain. 
 
-I've worked with businesses to help them use AI to improve decision-making, develop chatbots, and automate tasks. My experience includes building recommendation systems, forecasting models, and conducting time-series analysis for various industries. I’ve also led research projects that explore the intersection of economic trends like [Unemployment rate after COVID-19](https://m101yosef.github.io/publication/unempgrowth/), [energy consumption](https://m101yosef.github.io/publication/global-energy/), and human performance, like my recent analysis of the [2024 Olympics](https://m101yosef.github.io/publication/olympics-economics/).
+I didn't start my career in data despite studying it at university. However, I began in user experience design, learning how people interact with technology. That time changed how I think now; always start from the human side of the problem, not just the technical one.
 
-Beyond my freelance work, I’ve developed apps ([AQSA](https://m101yosef.github.io/publication/aqsa/) & [EVNTO](https://m101yosef.github.io/publication/evnto/)) for universities and startups, leveraging AI to create meaningful user experiences. I enjoy collaborating with different teams to bring AI-driven solutions to life, and I’m always looking for new opportunities to explore how AI can shape the future.
+Eventually, I found myself drawn to data and mathematics, and I slowly shifted paths. Outside doing paid data projects for companies and startups, I write research reviews and reflections to help myself learn and share what I've learned with others.
 
-Currently, I’m focused on mastering reinforcement learning, while continually expanding my knowledge in Natural Language Processing and Time Series Analysis.
 
 Read more on my website $\to$ [m101yosef.github.io](https://m101yosef.github.io)
