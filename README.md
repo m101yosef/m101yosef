@@ -1,1 +1,9 @@
-Mohamed Yosef. Jr. Applied Data Scientist holding a 2024 BSc in Statistics and Computer Science. My focus is applying data analysis, time-series forecasting, and foundational ML principles to solve practical problems, demonstrated through projects like AQSA (tools for small businesses). Authored literature reviews covering ML, DL, and RL fundamentals. A Linux user committed to rigorous application of data methods and contributing to open-source.
+I bridge the gap between business goals and technical execution.
+
+In the fast-moving E-commerce sector, success relies on clear communication, not just code. My role is to ensure that technical initiatives align perfectly with business objectives.
+
+Currently, I am the Technical Program Manager at Khalas-ha Sah, where I oversee technical operations and digital services for e-commerce businesses.
+
+I leverage a deep understanding of technical systems to set realistic timelines and remove operational bottlenecks, ensuring that the technology serves the business rather than complicating it.
+
+Technical Program Manager • E-commerce Strategy • Workflow Optimization
